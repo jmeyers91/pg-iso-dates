@@ -1,6 +1,6 @@
 {
   "name": "pg-iso-dates",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility for ensuring Postgre parses dates as ISO strings.",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/jmeyers91/pg-iso-dates.git"
   },
-  "keywords": [],
+  "keywords": [
+    "postgre",
+    "postgresql",
+    "date",
+    "iso"
+  ],
   "author": "James Meyers",
   "license": "ISC",
   "bugs": {
